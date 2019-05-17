@@ -4,7 +4,7 @@ This challenge allows you to practice the concepts and techniques learned over t
 
 Remember, this is a way for you to analyze your understanding of the concepts presented this week. Feel free to reference old code, but please refrain from copy/pasting, even rewriting old code can teach you something new! Take your time, and have fun!
 
-## TO DO:
+## TO DO :
 
 ## Instructions
 
