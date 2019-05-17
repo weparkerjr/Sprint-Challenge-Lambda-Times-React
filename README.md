@@ -28,12 +28,12 @@
 
 ## Look through the application code. If you have the old Lambda Times (Applied JavaScript) sprint challenge handy, you may compare how the structure of this app differs from that, noting how React gives us very easy to use concise components.
 
- Self-Study/Essay Questions
+## Self-Study/Essay Questions
 
-- [ ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
-- [ ] Describe a life-cycle event in React?
-- [ ] Explain the details of a Higher Order Component?
-- [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+##  [ ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript.
+##  [ ] Describe a life-cycle event in React?
+##  [ ] Explain the details of a Higher Order Component?
+##  [ ] What are three different ways to style components in React? Explain some of the benefits of each.
 
 ## Project Setup
 
@@ -43,16 +43,16 @@
 ##  [ ] Add your project manager as collaborator on Github.
 ##  [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
 ##  [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+##  [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+##  [ ] Push commits: git push origin `<firstName-lastName>`.
 ##  [ ] From within the `lambdatimes` folder run `yarn` and then `yarn start`. This will open your locally hosted application in your browser. Once you are ready move onto the next steps.
 ##  [ ] Inside the `Content` folder you will find all 5 components that make up the content of the application. The flow goes like this: `Content > Tabs > Tab` and `Content > Cards > Card`. Follow the directions in the `Content` component to get your data ready.
 
-Follow these steps for completing your project.
+## Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
-- [ ] Add your project manager as a reviewer on the pull-request
-- [ ] Your project manager will count the project as complete by merging the branch back into master.
+##  [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
+##  [ ] Add your project manager as a reviewer on the pull-request
+##  [ ] Your project manager will count the project as complete by merging the branch back into master.
 
 ## Minimum Viable Product
 
